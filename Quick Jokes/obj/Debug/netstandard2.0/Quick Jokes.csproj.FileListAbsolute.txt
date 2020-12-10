@@ -1,0 +1,13 @@
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\Quick Jokes.AssemblyInfoInputs.cache
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\Quick Jokes.AssemblyInfo.cs
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\Quick Jokes.csproj.CoreCompileInputs.cache
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\Quick Jokes.dll
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\ref\Quick Jokes.dll
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\Quick Jokes.pdb
+D:\repos\Quick Jokes\Quick Jokes\bin\Debug\netstandard2.0\Quick Jokes.deps.json
+D:\repos\Quick Jokes\Quick Jokes\bin\Debug\netstandard2.0\Quick Jokes.dll
+D:\repos\Quick Jokes\Quick Jokes\bin\Debug\netstandard2.0\ref\Quick Jokes.dll
+D:\repos\Quick Jokes\Quick Jokes\bin\Debug\netstandard2.0\Quick Jokes.pdb
+D:\repos\Quick Jokes\Quick Jokes\obj\Debug\netstandard2.0\XamlC.stamp

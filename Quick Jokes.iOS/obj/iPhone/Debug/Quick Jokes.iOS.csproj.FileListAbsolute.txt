@@ -1,0 +1,8 @@
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\optimized\
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\Quick Jokes.iOS.csprojAssemblyReference.cache
+D:\repos\Quick Jokes\Quick Jokes.iOS\obj\iPhone\Debug\Quick Jokes.iOS.csproj.CoreCompileInputs.cache

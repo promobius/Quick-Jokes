@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quick_Jokes.MainPage">
+    <StackLayout VerticalOptions="Center">
+        <Label Text="0"
+               x:Name="response1"
+             
+               TextColor="Aquamarine"
+               FontSize="72"
+               FontFamily="ComicSans"
+               HorizontalOptions="Center"
+            />
+
+        <Button Text="hello!"
+                Clicked="IncrementCounterClicked"
+                FontSize="46"
+                />
+        <Label Text="0"
+               x:Name="response2"
+             
+               TextColor="Aquamarine"
+               FontSize="72"
+               FontFamily="ComicSans"
+               HorizontalOptions="Center"
+            />
+        <Button Text="whats up!"
+                Clicked="IncrementCounterClicked2"
+                FontSize="46"
+                />
+    </StackLayout>
+
+</ContentPage>
